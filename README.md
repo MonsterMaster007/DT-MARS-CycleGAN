@@ -5,7 +5,7 @@ The paper is published on [Arxiv](https://arxiv.org/abs/2310.12787) , and under 
 
 ## Pipeline of DT/MARS-CycleGAN
 <img src="figures/fig1.png"/>
-[Fig. 1](https://github.com/MonsterMaster007/DT-MARS-CycleGAN/blob/main/figures/fig1.pdf) : Illustration of the physical/DT robots (left panel), the DT/MARS-CycleGAN model (middle panel), and the crop object/row detection network (right panel).
+[Fig. 1](https://github.com/MonsterMaster007/DT-MARS-CycleGAN/blob/main/figures/fig1.pdf) [Arxiv](https://arxiv.org/abs/2310.12787): Illustration of the physical/DT robots (left panel), the DT/MARS-CycleGAN model (middle panel), and the crop object/row detection network (right panel).
 
 
 
