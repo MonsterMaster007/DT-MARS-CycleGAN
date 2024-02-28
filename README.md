@@ -30,7 +30,7 @@ YOLOv8 repository for evaluation (more detail requirement: https://github.com/ul
 
 
 ## Getting Started
-
+waiting for update...
 
 
 ## Dataset Download
