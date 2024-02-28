@@ -3,7 +3,7 @@ The repository is for the paper: DT/MARS-CycleGAN: Improved Object Detection for
 
 The paper is published on [Arxiv](https://arxiv.org/abs/2310.12787) , and under review on Journal of field robotics.
 
-## [Pipeline of DT/MARS-CycleGAN](https://github.com/MonsterMaster007/DT-MARS-CycleGAN/blob/main/figures/fig1.pdf)
+## Pipeline of DT/MARS-CycleGAN[link](https://github.com/MonsterMaster007/DT-MARS-CycleGAN/blob/main/figures/fig1.pdf)
 <pdf src="./figures/fig1.pdf" width="1000"/>
 Fig. 1. Illustration of the physical/DT robots (left panel), the DT/MARS-CycleGAN model (middle panel), and the crop object/row detection network
 (right panel). Additional annotation and description are referred to the main text
