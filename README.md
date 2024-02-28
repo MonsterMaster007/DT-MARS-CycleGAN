@@ -1,4 +1,4 @@
-# DT-MARS-CycleGAN
+# DT/MARS-CycleGAN
 The repository is for the paper: DT/MARS-CycleGAN: Improved Object Detection for MARS Phenotyping Robot, including the code and dataset for reproducing. 
 
 The paper is published on [Arxiv](https://arxiv.org/abs/2310.12787) , and under review on Journal of field robotics.
