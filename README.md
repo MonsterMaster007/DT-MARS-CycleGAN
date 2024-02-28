@@ -21,8 +21,12 @@ Fig. 1: Illustration of the physical/DT robots (left panel), the DT/MARS-CycleGA
 
 
 
-
 ## Prerequisites
+
+YOLOv8 repository for evaluation (more detail requirement: https://github.com/ultralytics/ultralytics): 
+```
+ pip install ultralytics
+```
 
 
 ## Getting Started
@@ -30,10 +34,12 @@ Fig. 1: Illustration of the physical/DT robots (left panel), the DT/MARS-CycleGA
 
 
 ## Dataset Download
+The dataset has been released on Kaggle: .
 
 
 
 ## Pretrained models
+The pretrained model can be check on googledrive: .
 
 
 
